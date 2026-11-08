@@ -19,9 +19,7 @@ The goal of the analysis is to understand users' experience and preferences when
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 - Tableau
 
