@@ -1,0 +1,42 @@
+﻿Тип аналізу;Поле_1;Поле_2
+watch_frequency;Приблизно раз на тиждень;12
+watch_frequency;Кілька разів на тиждень;12
+watch_frequency;Кілька разів на місяць;12
+watch_frequency;Рідше;8
+watch_frequency;Майже ніколи;6
+selection_method;Разом шукаємо фільм на різних платформах;20
+selection_method;По черзі пропонуємо варіанти;13
+selection_method;Обирає одна людина;7
+selection_method;Довго обговорюємо, поки не домовимося;6
+selection_method;Голосуємо за запропоновані варіанти;2
+selection_method;Дивимось відгуки і обираємо;1
+selection_method;відкриваємо список IMBD і по черзі все дивимось ;1
+selection_time;5–15 хвилин;24
+selection_time;15–30 хвилин;21
+selection_time;Понад 30 хвилин;3
+selection_time;До 5 хвилин;2
+selection_difficulty;Важко знайти фільм який усім сподобається;31
+selection_difficulty;Витрачаємо багато часу на пошук;24
+selection_difficulty;У всіх різні смаки;17
+selection_difficulty;Забагато варіантів;10
+selection_difficulty;складно визначитися;10
+selection_difficulty;Не можемо домовитися;9
+selection_difficulty;Зазвичай проблем із вибором немає;8
+selection_difficulty;Багато фільмів бачили;1
+helpful_solutions;Підбір фільмів за вподобаннями всіх учасників;31
+helpful_solutions;Спільний список фільмів які хочемо подивитися;22
+helpful_solutions;Спільне голосування за фільми;18
+helpful_solutions;Фільтри за жанром рейтингом і роком випуску;18
+helpful_solutions;Випадковий вибір фільму;12
+useful_features;Утрималися від відповіді;28
+useful_features;Отримувати рекомендації на основі спільних інтересів;16
+useful_features;Оцінювати фільми незалежно одне від одного та знаходити збіги;11
+useful_features;Створювати спільний список фільмів і голосувати за них;11
+useful_features;Фільтрувати фільми за жанром тривалістю та іншими параметрами;9
+useful_features;Знаходити фільми доступні на потрібному стримінговому сервісі;7
+useful_features;Жодна із цих функцій;1
+daily_responses;2026-10-17;34
+daily_responses;2026-10-18;9
+daily_responses;2026-10-19;4
+daily_responses;2026-10-21;2
+daily_responses;2026-10-22;1

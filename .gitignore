@@ -220,9 +220,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Data files
-*.csv
 *.tsv
-*.xlsx
 *.json
-data/
 datasets/
