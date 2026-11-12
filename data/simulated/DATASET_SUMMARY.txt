@@ -1,0 +1,25 @@
+Movie Match Synthetic Simulation — Quality Summary
+Seed: 20261112
+Completed rooms: 500
+Participants: 1700
+Votes: 34000
+Group distribution: 2=100, 3=175, 4=150, 5=75
+Guest-hosted rooms: 275
+Authenticated-hosted rooms: 225
+Zero-winner edge case room_id: 500004
+Two-way tie edge case room_id: 500005
+
+CSV row counts (excluding headers):
+01_landing_page.csv: 15000
+02_guest_create_room.csv: 1375
+03_guest_host_room_invite_friends.csv: 1100
+06_guest_swipe_session.csv: 21230
+08_guest_results_winners.csv: 3903
+09_sign_in.csv: 960
+10_sign_up.csv: 636
+11_home_signed_in.csv: 3012
+12_settings.csv: 432
+02_authenticated_create_room.csv: 900
+03_authenticated_host_room_invite_friends.csv: 900
+06_authenticated_swipe_session.csv: 16170
+08_authenticated_results_winners.csv: 3813
